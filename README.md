@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 - 😄 **Pronouns:** [Your pronouns]
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
 -->
+
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical)
@@ -26,8 +27,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-manas-chakravarty-91958224b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tmanas2004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ### 🛠️ Tools and Technologies:
@@ -44,7 +45,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 <!-- BLOG-POST-LIST:START -->
 <!-- If you have a blog, uncomment the next line and set the feed URL -->
-<!-- - [Post Title](https://your-blog-link.com) -->
+- [Check out my blog](https://techieresearch.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 GitHub Trophies
@@ -57,4 +58,4 @@ Feel free to reach out if you'd like to collaborate on something or just want to
 
 ---
 
-This template adds visual appeal and organization to your profile, making it more engaging for visitors. Replace placeholders like `your-profile` and `your-email@example.com` with your actual details. You can also customize the tools, technologies, and themes to match your preferences.
+This template adds visual appeal and organization to your profile, making it more engaging for visitors. Replace placeholders like `your-email@example.com` with your actual details. You can also customize the tools, technologies, and themes to match your preferences.
