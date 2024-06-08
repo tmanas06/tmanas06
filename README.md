@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
 -->
 
-
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical)
@@ -101,6 +100,11 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
 </div>
 
 ### 🏆 GitHub Trophies
