@@ -13,18 +13,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
 -->
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical" alt="Your GitHub stats" />
-</div>
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmanas06&theme=radical" alt="GitHub Streak" />
-</div>
-
 ### 🌟 Top Languages
 
 <div align="center">
@@ -102,6 +90,18 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
   <img src="https://skillicons.dev/icons?i=web3" height="40" alt="web3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cairo" height="40" alt="cairo logo" />
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</div>
+
+### 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmanas06&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
