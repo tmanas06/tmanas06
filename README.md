@@ -12,10 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 - 😄 **Pronouns:** [Your pronouns]
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
 -->
-###
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1955727/screenshots/4438379/hello.gif"  />
-</div>
+
 
 ### 📊 GitHub Stats
 
