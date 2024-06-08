@@ -59,12 +59,4 @@ Feel free to reach out if you'd like to collaborate on something or just want to
 
 ---
 
-### 📇 Aspecta Profile
 
-[![Aspecta Profile](https://aspecta-id-widget.vercel.app/api/profile?username=tmanas06)](https://aspecta.id/u/tmanas06)
-
-### 📈 Aspecta Stats
-
-<!-- Replace these with actual Aspecta widget URLs -->
-![Aspecta Contribution Graph](https://aspecta-id-widget.vercel.app/api/contributions?username=tmanas06&theme=radical)
-![Aspecta Skills Breakdown](https://aspecta-id-widget.vercel.app/api/skills?username=tmanas06&theme=radical)
