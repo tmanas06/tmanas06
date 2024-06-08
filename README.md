@@ -53,10 +53,13 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical)
 
+### 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 Feel free to reach out if you'd like to collaborate on something or just want to chat about tech. Have a great day! 🚀
 
 ---
-
 
