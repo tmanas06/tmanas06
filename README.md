@@ -1,11 +1,8 @@
-Certainly! Here is an enhanced version of your GitHub profile `README.md`:
-
----
-
 ## Hi there 👋 I'm Manas!
 
 Welcome to my GitHub profile! I'm passionate about technology and constantly looking for ways to improve and learn. Here are a few things about me:
 
+<!--
 - 🔭 **I’m currently working on:** [Your current project or projects you're excited about]
 - 🌱 **I’m currently learning:** [Any new technologies, languages, or skills you're picking up]
 - 👯 **I’m looking to collaborate on:** [Projects or areas where you'd like to work with others]
@@ -14,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 - 📫 **How to reach me:** [Your contact information, e.g., email, LinkedIn, Twitter handle]
 - 😄 **Pronouns:** [Your pronouns]
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
-
+-->
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical)
