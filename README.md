@@ -54,6 +54,10 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### 📇 Aspecta Profile
+
+[![Aspecta Profile](https://aspecta-id-widget.vercel.app/api/profile?username=tmanas06)](https://aspecta.id/u/tmanas06)
+
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
