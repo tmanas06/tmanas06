@@ -15,11 +15,16 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmanas06&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</div>
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tmanas06&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmanas06&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ### 🌟 Top Languages
 
