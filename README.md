@@ -42,13 +42,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, uncomment the next line and set the feed URL -->
-- [Check out my blog](https://techieresearch.blogspot.com/)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical)
@@ -57,6 +50,12 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- If you have a blog, uncomment the next line and set the feed URL -->
+- [Check out my blog](https://techieresearch.blogspot.com/)
+<!-- BLOG-POST-LIST:END -->
 ---
 
 Feel free to reach out if you'd like to collaborate on something or just want to chat about tech. Have a great day! 🚀
