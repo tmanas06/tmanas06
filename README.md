@@ -25,10 +25,11 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmanas06&theme=radical" alt="GitHub Streak" />
 </div>
 
-
 ### 🌟 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmanas06&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmanas06&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ### 🌐 Connect with me:
 
