@@ -148,7 +148,7 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 
 <div align="center">
   <a href="https://www.linkedin.com/in/t-manas-chakravarty-91958224b/" target="_blank" style="text-decoration: none;">
-    <img src="[https://github.com/tmanas06/tmanas06/assets/113188197/38b99ea8-7404-42d8-8e1d-c1d3703b7f23](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FGIF-Isekai-Smartphone-Telefon-Discover-1969359.html&psig=AOvVaw1tkwd0CQRzoqJ_2b-ITBJs&ust=1718005241958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjfobSCzoYDFQAAAAAdAAAAABA4)" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FGIF-Isekai-Smartphone-Telefon-Discover-1969359.html&psig=AOvVaw1tkwd0CQRzoqJ_2b-ITBJs&ust=1718005241958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjfobSCzoYDFQAAAAAdAAAAABA4" />
   </a>
 </div>
 <br>
