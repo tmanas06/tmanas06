@@ -1,8 +1,11 @@
+Sure, I'll update the links correctly for your GitHub profile. Here is the revised markdown with the proper insertion of the GIF links:
+
 ---
 
 About Me
 Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open source and development. I thrive on tackling new challenges and crafting innovative solutions across various domains, including AI, Data Analytics, Flutter development, DevOps, and Blockchain. With a keen eye for clean code and a drive to make a meaningful impact, I'm always ready to collaborate and build something extraordinary. Let's connect and create magic together! ✨🚀
 
+![Gregorian Chant](https://letsplaygregorianchant.wordpress.com)
 
 <!--
 - 🔭 **I’m currently working on:** [Your current project or projects you're excited about]
@@ -120,21 +123,22 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="
-
-https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical" alt="Contribution Graph" />
+ 
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
 
 ### 😄 Just for Fun!
 
+![Isekai Smartphone](https://thirstymag.com/GIF-Isekai-Smartphone-Telefon-Discover-1969359.html)
 
 ---
 
@@ -150,3 +154,5 @@ Feel free to reach out if you'd like to collaborate on something or just want to
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+This should correctly display the GIFs for "Gregorian Chant" and "Isekai Smartphone" on your GitHub profile.
