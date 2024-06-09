@@ -1,7 +1,7 @@
 ### Heya ! Konichiwa 👋
 ---
 <div align="center">
-  <a href="https://www.linkedin.com/in/t-manas-chakravarty-91958224b/" target="_blank" style="text-decoration: none;">
+  <a href="https://animesuge.to/anime/welcome-to-the-classroom-of-the-elite-you-zitsu-3r712/ep-1" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/tmanas06/tmanas06/assets/113188197/38b99ea8-7404-42d8-8e1d-c1d3703b7f23" />
   </a>
 </div>
@@ -147,7 +147,7 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 ### 😄 Just for Fun!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/t-manas-chakravarty-91958224b/" target="_blank" style="text-decoration: none;">
+  <a href="https://animesuge.to/anime/in-another-world-with-my-smartphone-48qx/ep-1/" target="_blank" style="text-decoration: none;">
     <img src=![image](https://github.com/tmanas06/tmanas06/assets/113188197/32886906-52db-4974-9379-8e807118abb6)" />
   </a>
 </div>
