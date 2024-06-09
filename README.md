@@ -2,7 +2,7 @@
 ---
 <div align="center">
   <a href="https://animesuge.to/anime/welcome-to-the-classroom-of-the-elite-you-zitsu-3r712/ep-1" target="_blank" style="text-decoration: none;">
-    <img src="![image](https://github.com/tmanas06/tmanas06/assets/113188197/ef9bdc5a-6cf1-421b-aa10-44b8774d16b5)" />
+    <img src="https://letsplaygregorianchant.files.wordpress.com/2018/10/wave.gif?w=663" />
   </a>
 </div>
 <br>
