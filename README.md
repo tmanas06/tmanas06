@@ -1,5 +1,12 @@
-## 💬 About Me
+---
+
+## About Me
+
 Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open source and development. I thrive on tackling new challenges and crafting innovative solutions across various domains, including AI, Data Analytics, Flutter development, DevOps, and Blockchain. With a keen eye for clean code and a drive to make a meaningful impact, I'm always ready to collaborate and build something extraordinary. Let's connect and create magic together! ✨🚀
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Let's create magic together!" />
+</div>
 
 <!--
 - 🔭 **I’m currently working on:** [Your current project or projects you're excited about]
@@ -116,23 +123,26 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=t
+
+manas06&theme=radical" alt="GitHub Trophies" />
+</div>
 
 ### 📈 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, uncomment the next line and set the feed URL -->
-- [Check out my blog](https://techieresearch.blogspot.com/)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical" alt="Contribution Graph" />
+</div>
 
 ---
 
-Feel free to reach out if you'd like to collaborate on something or just want to chat about tech. Have a great day! 🚀
+### 😄 Just for Fun!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Lncs3CSWdkpjQdS0Ay/giphy.gif" width="300" alt="Feeling motivated!" />
+  <br>
+  <img src="https://media.giphy.com/media/l41lISBVJldlaK6JG/giphy.gif" width="300" alt="Stay curious!" />
+</div>
 
 ---
