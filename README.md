@@ -6,7 +6,9 @@
   </a>
 </div>
 <br>
+
 ### 💬 About Me
+
 Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open source and development. I thrive on tackling new challenges and crafting innovative solutions across various domains, including AI, Data Analytics, Flutter development, DevOps, and Blockchain. With a keen eye for clean code and a drive to make a meaningful impact, I'm always ready to collaborate and build something extraordinary. Let's connect and create magic together! ✨🚀
 
 
