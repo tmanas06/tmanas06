@@ -147,7 +147,7 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 ### 😄 Just for Fun!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/t-manas-chakravarty-91958224b/" target="_blank" style="text-decoration: none;">
+  <a href="https://animesuge.to/anime/in-another-world-with-my-smartphone-48qx/ep-1" target="_blank" style="text-decoration: none;">
     <img src="https://media.tenor.com/gJg4ihqQFhwAAAAd/isekai-smartphone.gif" />
   </a>
 </div>
