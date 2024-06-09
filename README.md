@@ -1,9 +1,10 @@
----
-
-About Me
+### Heya ! Konichiwa 👋
+![image](https://github.com/tmanas06/tmanas06/assets/113188197/38b99ea8-7404-42d8-8e1d-c1d3703b7f23)
+--
+### 💬 About Me
 Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open source and development. I thrive on tackling new challenges and crafting innovative solutions across various domains, including AI, Data Analytics, Flutter development, DevOps, and Blockchain. With a keen eye for clean code and a drive to make a meaningful impact, I'm always ready to collaborate and build something extraordinary. Let's connect and create magic together! ✨🚀
 
-![image](https://github.com/tmanas06/tmanas06/assets/113188197/38b99ea8-7404-42d8-8e1d-c1d3703b7f23)
+
 
 
 <!--
