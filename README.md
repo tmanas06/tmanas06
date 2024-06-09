@@ -27,7 +27,6 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 
 ### 🌟 Top Languages
 ---
-🌟 Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmanas06&layout=compact&theme=radical" alt="Top Languages" />
 </div>
