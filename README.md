@@ -148,7 +148,7 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 
 <div align="center">
   <a href="https://www.linkedin.com/in/t-manas-chakravarty-91958224b/" target="_blank" style="text-decoration: none;">
-    <img src=![image](https://github.com/tmanas06/tmanas06/assets/113188197/32886906-52db-4974-9379-8e807118abb6)" />
+    <img src="https://media.tenor.com/gJg4ihqQFhwAAAAd/isekai-smartphone.gif" />
   </a>
 </div>
 <br>
