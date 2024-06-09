@@ -5,7 +5,7 @@
 Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open source and development. I thrive on tackling new challenges and crafting innovative solutions across various domains, including AI, Data Analytics, Flutter development, DevOps, and Blockchain. With a keen eye for clean code and a drive to make a meaningful impact, I'm always ready to collaborate and build something extraordinary. Let's connect and create magic together! ✨🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" alt="Let's create magic together!" />
+  <img src="https://media.giphy.com/media/10OocSNsE0Kt80/giphy.gif" width="300" alt="Excited anime character" />
 </div>
 
 <!--
@@ -124,9 +124,9 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=t
+  <img src="
 
-manas06&theme=radical" alt="GitHub Trophies" />
+https://github-profile-trophy.vercel.app/?username=tmanas06&theme=radical" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Contribution Graph
@@ -140,9 +140,22 @@ manas06&theme=radical" alt="GitHub Trophies" />
 ### 😄 Just for Fun!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Lncs3CSWdkpjQdS0Ay/giphy.gif" width="300" alt="Feeling motivated!" />
+  <img src="https://media.giphy.com/media/h4OGaQY93cAN6EkR3V/giphy.gif" width="300" alt="Excited anime character from Arifureta" />
   <br>
-  <img src="https://media.giphy.com/media/l41lISBVJldlaK6JG/giphy.gif" width="300" alt="Stay curious!" />
+  <img src="https://media.giphy.com/media/2Y7tdjKa5nlU0tuPDt/giphy.gif" width="300" alt="Curious anime character from an Isekai anime" />
 </div>
+
+---
+
+Feel free to reach out if you'd like to collaborate on something or just want to chat about tech. Have a great day! 🚀
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- If you have a blog, uncomment the next line and set the feed URL -->
+- [Check out my blog](https://techieresearch.blogspot.com/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
