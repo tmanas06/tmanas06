@@ -1,4 +1,4 @@
-### Heya ! Konichiwa 👋
+## Heya ! Konichiwa 👋
 ---
 <div align="center">
   <a href="https://animesuge.to/anime/welcome-to-the-classroom-of-the-elite-you-zitsu-3r712/ep-1" target="_blank" style="text-decoration: none;">
@@ -25,12 +25,6 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
 - ⚡ **Fun fact:** [An interesting or quirky fact about you]
 -->
 
-### 🌟 Top Languages
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmanas06&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 
 ### 🌐 Connect with me:
 ---
@@ -49,6 +43,12 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
   </a>
 </div>
 <br>
+
+### 🌟 Top Languages
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmanas06&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ### 🛠️ Tools and Technologies:
 ---
