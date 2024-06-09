@@ -123,6 +123,10 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly loo
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmanas06&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🐥Latest Tweets
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rudransh190204)](https://github.com/gazf/github-readme-twitter)
+
+
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
