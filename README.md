@@ -113,8 +113,9 @@ Hey there! 👋 I'm Manas, a 19-year-old tech enthusiast with a passion for open
   <img src="https://skillicons.dev/icons?i=web3" height="40" alt="web3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cairo" height="40" alt="cairo logo" />
-  img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cairo" height="40" alt="flutter logo" />
+  <img width="12" />
 </div>
 
 ### 📊 GitHub Stats
